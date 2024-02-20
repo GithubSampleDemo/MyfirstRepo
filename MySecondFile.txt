@@ -39,7 +39,7 @@ git pull origin ManishBranch
 
 Diff bw github & git
 
-git is nothing but a tool called git bash so that we can push and pull anything from Remote
+git is nothing but a tool called git bash so that we can push and pull anything from Remote (Connection bw local and remote)
 
 Github is a website where we can store code etc...
 
