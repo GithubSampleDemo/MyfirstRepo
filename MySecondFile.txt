@@ -1,0 +1,30 @@
+LOCAL(MyfirstRepo) -- CENTRAL(ManishBranch) -- REMOTE
+
+git status
+git branch
+git clone(Remote to local)
+pwd
+ls
+cd <fileName>
+git status
+git branch
+git checkout -b ManishBranch
+git branch (Now ManishBranch is Main)
+git status
+git diff (adding new lines in txt file. it can show that with this cmd)
+
+git add MyFile.txt
+git commit -m "my first commit" (Change is done with this cmd and ask the credentials)
+git config -- global user.email "manishkp59087email.com"
+git config --global user.name "Manish"
+git commit -m "my first commit" (After giving exact credentials we need to run again)
+git log(What we are doing)
+git push origin ManishBranch
+********************************************************************************************
+Adding new file to Git Repo
+
+git add *
+git status
+git commit -m "adding a new file named MySecondFile"
+git push origin ManishBranch
+Refresh ManishBranch Page MySecondFile is added.....
