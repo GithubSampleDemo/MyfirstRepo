@@ -28,3 +28,18 @@ git status
 git commit -m "adding a new file named MySecondFile"
 git push origin ManishBranch
 Refresh ManishBranch Page MySecondFile is added.....
+
+***********************************************************************************************
+
+Adding lines in MySecondFile  and move to Local
+
+git pull origin ManishBranch
+
+***********************************************************************************************
+
+Diff bw github & git
+
+git is nothing but a tool called git bash so that we can push and pull anything from Remote
+
+Github is a website where we can store code etc...
+
