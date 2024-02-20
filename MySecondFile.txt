@@ -8,7 +8,7 @@ ls
 cd <fileName>
 git status
 git branch
-git checkout -b ManishBranch
+git checkout -b ManishBranch(Main changed to central main branch)
 git branch (Now ManishBranch is Main)
 git status
 git diff (adding new lines in txt file. it can show that with this cmd)
@@ -42,4 +42,12 @@ Diff bw github & git
 git is nothing but a tool called git bash so that we can push and pull anything from Remote (Connection bw local and remote)
 
 Github is a website where we can store code etc...
+
+***************************************************************************************
+
+>PR - Pull Request
+>MR - Merge Request
+Reviewing process
+
+
 
